@@ -1,7 +1,7 @@
 import React from 'react';
 
-import './App.scss';
-import Parent from '../components/parent/Parent';
+import Parent from './components/parent/Parent';
+
 
 function App() {
   return (
